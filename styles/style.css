@@ -26,7 +26,6 @@ html {
   line-height: 48px;
   color: #538fff;
   font-weight: 700;
-  font-family: "Lato";
   text-align: center;
   margin-top: 34px;
 }
@@ -35,7 +34,6 @@ html {
   line-height: 34px;
   color: #ffffff;
   font-weight: 400;
-  font-family: "Lato";
   text-align: center;
 }
 footer > p {
