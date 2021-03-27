@@ -56,6 +56,8 @@ footer > p {
   height: 52px;
   border-radius: 10px;
   background-color: #538fff;
+}
+.e-input:placeholder-shown {
   font-size: 18px;
   letter-spacing: 2px;
   line-height: 29px;
