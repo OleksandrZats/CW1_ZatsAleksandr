@@ -1,11 +1,5 @@
-@font-face {
-  font-family: "RalewayRegular";
-  src: url("../fonts/RalewayRegular.ttf") format("truetype");
-  font-style: normal;
-  font-weight: normal;
-}
 html {
-  font-family: "Lato";
+  font-family: "Lato", sans-serif;
 }
 .latter {
   text-align: center;
